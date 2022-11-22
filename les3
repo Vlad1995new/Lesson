@@ -1,5 +1,6 @@
 str1 = "Hello"
 str2 = "123"
 per1 = int(str2)
-print(str1)
 print(type(per1))
+print(str1)
+print(per1)
