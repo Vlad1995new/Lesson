@@ -1,0 +1,12 @@
+1 # int
+1.23123 # float
+"str1" # str
+False # bool
+True # bool
+None # Пустой тип
+print("Hello, Maxim!")
+print("My name is Vlad")
+print(27)
+print(1.21312)
+print(False)
+print(True)
