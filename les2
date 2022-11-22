@@ -1,9 +1,4 @@
-1 # int
-1.23123 # float
-"str1" # str
-False # bool
-True # bool
-None # Пустой тип
+# Переменные
 per1 = "Hello, Maxim!"
 per2 = "My name is Vlad"
 per3 = 27
@@ -11,6 +6,9 @@ per4 = 1.21312
 per5 = False
 per6 = True
 per7 = None
+per8 = 1995
+per9 = 38.98
+# Вывод на консоль
 print(per1)
 print(per2)
 print(per3)
@@ -18,3 +16,5 @@ print(per4)
 print(per5)
 print(per6)
 print(per7)
+print(per8)
+print(per9)
