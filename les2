@@ -4,9 +4,17 @@
 False # bool
 True # bool
 None # Пустой тип
-print("Hello, Maxim!")
-print("My name is Vlad")
-print(27)
-print(1.21312)
-print(False)
-print(True)
+per1 = "Hello, Maxim!"
+per2 = "My name is Vlad"
+per3 = 27
+per4 = 1.21312
+per5 = False
+per6 = True
+per7 = None
+print(per1)
+print(per2)
+print(per3)
+print(per4)
+print(per5)
+print(per6)
+print(per7)
