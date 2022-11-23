@@ -1,0 +1,5 @@
+print("Hello" + " " + "Maxim")
+print("Hello " * 3)
+str1=str("1")
+str2=str("1.1")
+print(str1+str2)
